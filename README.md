@@ -9,4 +9,4 @@ https://recursionist.io/
 
 # URL
 
-https://okabekaito.github.io/Sporting-goods-vending-machine/
+https://okabekaito.github.io/Emotion-Onomatopoeia-Dictionary/
