@@ -123,8 +123,8 @@ let tableOfContainer = "";
 
     for(let i = 0;i < emotions.length;i++){
         tableOfContainer +=
-    `<div  class="row justify-content-center m-5 container  ">
-            <div class="col-sm-12 col-md-7 col-lg-4 pr-5 pb-5 flex-nowrap ">
+    `<div  class=" m-5 container  ">
+            <div class="col-12 pr-5 pb-5 flex-wrap ow justify-content-center">
                 <div class="bg-${emotions[i].color}   row justify-content-center  ">
                     <div class="d-flex justify-content-center align-items-center flex-column flex-wrap">
                         <h3><a href="#sec${i}">${emotions[i].emotion}</a></h3>
